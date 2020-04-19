@@ -1,0 +1,13 @@
+name: SoundBroadcast
+main: fr.oceanwars.soundbroadcast.SoundBroadcast
+depend: []
+version: 1.0.0
+api-version: 1.12.2
+commands:
+   soundbroadcast:
+      description: Broadcast with sound
+      permission: soundbroadcast.admin
+      aliases:
+      - sb
+      permission-message: You are not allowed to do that!
+      usage: "/<command> message"

@@ -1,0 +1,15 @@
+# Config for plugin SoundBroadcast
+#
+# The sound to play on broadcast:
+# sound: ENTITY_EXPERIENCE_ORB_PICKUP
+# For a list of sounds, please look at:
+# https://helpch.at/docs/1.12.2/org/bukkit/Sound.html
+#
+# which volume to play, from 0 to 1.0
+# volume: 1
+#
+# The pitch to play the sound
+# pitch: 0
+sound: ENTITY_EXPERIENCE_ORB_PICKUP
+volume: 0.5
+pitch: 0
